@@ -8,7 +8,7 @@
 40 IF G% > N% THEN PRINT "My number is less!"
 50 IF G% < N% THEN PRINT "My number is greater!"
 60 GOTO 20
-70 PRINT "Wow, you did it!."
+70 PRINT "Wow, you did it in ";T%;" attempts!"
 80 END
 ```
 
