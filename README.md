@@ -1,7 +1,7 @@
 # CIT-BASIC
 
 CIT stands for "Computer and Information Technologies" (department of NTU "KhPI").
-Was written as a part of my course project few years ago.
+Project was crafted as a part of my course project few years ago.
 
 Here are some sample programs that can be executed by CIT-BASIC:
 
