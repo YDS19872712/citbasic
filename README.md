@@ -1,5 +1,10 @@
 # CIT-BASIC
 
+CIT stands for "Computer and Information Technologies" (department of NTU "KhPI").
+Was written as a part of my course project few years ago.
+
+Here are some sample programs that can be executed by CIT-BASIC:
+
 ```basic
 10 N% = RND 100
 20 INPUT "Guess the number in range from 0 to 100?", G%
